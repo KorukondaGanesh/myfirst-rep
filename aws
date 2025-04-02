@@ -7,3 +7,5 @@ chmod 400 "devops-new.pem"
 
 Connect to your instance using its Public DNS:
 ec2-52-87-97-12.compute-1.amazonaws.com
+Hello everyone 
+
